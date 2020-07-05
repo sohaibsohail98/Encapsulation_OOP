@@ -15,5 +15,5 @@ class Car:
 
 redcar = Car()
 redcar.drive()
-redcar.setMaxSpeed(320)
+redcar.setMaxSpeed(374)
 redcar.drive()
